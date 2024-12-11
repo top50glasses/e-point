@@ -1,14 +1,1 @@
-# 로컬에 저장소 복제
-git clone https://github.com/top50glasses/e-point.git
 
-# 폴더로 이동
-cd e-point
-
-# 파일 삭제
-git rm e_point_2.json
-
-# 커밋
-git commit -m "Deleted e_point_2.json"
-
-# 원격으로 푸시
-git push
